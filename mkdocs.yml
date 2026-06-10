@@ -1,15 +1,12 @@
 site_name: Yoga Q/A Repository
-site_description: Searchable collection of authentic Yogic Life teachings
-site_url: https://yogiclife.github.io/yoga-qa/
+site_description: Yogic Life Teachings & Answers
 
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - search.suggest
-    - search.highlight
 
 nav:
   - Home: index.md
@@ -22,6 +19,3 @@ nav:
   - Ethics: ethics/
   - Creation Cycle: creation-cycle/
   - Misc: misc/
-
-plugins:
-  - search
