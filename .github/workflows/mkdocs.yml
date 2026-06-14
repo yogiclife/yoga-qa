@@ -1,17 +1,15 @@
 name: Deploy MkDocs
 
 on:
-push:
-branches:
-- main
+  push:
+    branches:
+      - main
 
 jobs:
-test:
-runs-on: ubuntu-latest
+  test:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - uses: actions/checkout@v4
+    steps:
+      - uses: actions/checkout@v4
 
-  - run: echo "Workflow is working"
-```
+      - run: echo "Workflow is working"
