@@ -11,11 +11,11 @@ theme:
 nav:
   - Home: index.md
   - Philosophy: philosophy/
+  - Creation Cycle: creation-cycle/
   - Mind: mind/
-  - Mind & Body: mind-body/
+  - Mind-Body Connection: mind-body/
   - Food: food/
   - Sadhana: sadhana/
   - Yogic Life: yogic-life/
   - Ethics: ethics/
-  - Creation Cycle: creation-cycle/
   - Misc: misc/
