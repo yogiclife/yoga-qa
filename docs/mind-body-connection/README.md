@@ -1,1 +1,1 @@
-# Mind-body connection
+# Mind-Body Connection
