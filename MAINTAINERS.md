@@ -14,19 +14,19 @@ https://github.com/yogiclife/yoga-qa
 
 ## Main components
 
-1. Google Form  
+1. **Google Form**
    Teachers submit Q&A pairs.
 
-2. Google Sheet  
+2. **Google Sheet**
    Stores form responses.
 
-3. Google Apps Script  
+3. **Google Apps Script**
    Validates submitter email addresses, creates Markdown files, saves a backup copy to Google Drive, and uploads the file to GitHub.
 
-4. GitHub repository  
+4. **GitHub repository**
    Stores the Markdown files and website source.
 
-5. GitHub Actions  
+5. **GitHub Actions**
    Regenerates topic index pages, builds the MkDocs site, and deploys it to GitHub Pages.
 
 ## Content flow
@@ -41,11 +41,13 @@ Google Form submission
 → Topic README files regenerated
 → MkDocs website rebuilt
 → GitHub Pages website updated
+```
 
-** Topic folders **
+## Topic folders
 
-** Q&A files are stored under: **
+**Q&A files are stored under:**
 
+```text
 docs/food/
 docs/philosophy/
 docs/mind/
@@ -55,76 +57,110 @@ docs/yogic-life/
 docs/ethics/
 docs/creation-cycle/
 docs/miscellaneous/
+```
 
-Each topic folder has a README.md generated automatically by:
+Each topic folder has a `README.md` generated automatically by:
 
+```text
 scripts/generate_indices.py
+```
 
-** Do not manually edit topic README.md files unless necessary, because they may be overwritten automatically. **
+**Do not manually edit topic `README.md` files unless necessary**, because they may be overwritten automatically.
 
-** Adding approved contributors **
+## Adding approved contributors
 
-Approved contributor emails are listed in the Google Apps Script inside the trustedEmails array.
+Approved contributor emails are listed in the Google Apps Script inside the `trustedEmails` array.
 
 To add a new teacher:
 
-Open the Apps Script project and then the Code.gs script.
-Add the teacher's email to trustedEmails.
-Save the script.
-Test with one submission.
+1. Open the Apps Script project.
+2. Open `Code.gs`.
+3. Add the teacher's email to `trustedEmails`.
+4. Save the script.
+5. Test with one submission.
 
-
-** GitHub token **
+## GitHub token
 
 The Apps Script uses a GitHub fine-grained personal access token stored in Script Properties:
 
-GITHUB_TOKEN
+**`GITHUB_TOKEN`**
 
 The token should have access only to this repository:
 
-yogiclife/yoga-qa
+**`yogiclife/yoga-qa`**
 
 Required permissions:
 
-Contents: Read and write
-Metadata: Read
+* **Contents:** Read and write
+* **Metadata:** Read
 
 If GitHub uploads stop working, check whether the token has expired or been revoked.
 
-** If GitHub upload fails **
+## If GitHub upload fails
 
 The Q&A file is still saved in Google Drive under:
 
+```text
 Yoga QA Review/
+```
 
 The submitter receives an email saying that the submission was saved but not published.
 
 To republish manually:
 
-Find the .md file in Google Drive.
-Upload it to the appropriate folder under docs/.
-Commit the change.
-GitHub Actions will rebuild the site automatically.
-Important maintenance files
-mkdocs.yml
-.github/workflows/mkdocs.yml
-scripts/generate_indices.py
-Website homepage
+1. Find the `.md` file in Google Drive.
+2. Upload it to the appropriate folder under `docs/`.
+3. Commit the change.
+4. GitHub Actions will rebuild the site automatically.
 
-** The homepage text is stored in: **
+## Important maintenance files
 
+* `mkdocs.yml`
+* `.github/workflows/mkdocs.yml`
+* `scripts/generate_indices.py`
+* `docs/index.md`
+* `Code.gs`
+* `GitHub.gs`
+
+## Website homepage
+
+The homepage text is stored in:
+
+```text
 docs/index.md
+```
 
-** Succession **
+## Succession
 
-The repository owner has designated a GitHub successor. At least one trusted teacher should also have collaborator access to the repository and editor access to the Google Form, Sheet, and Apps Script.
+The repository owner has designated a GitHub successor.
 
-** Routine checks **
+At least one trusted teacher should also have:
+
+* collaborator access to the GitHub repository;
+* editor access to the Google Form;
+* editor access to the Google Sheet;
+* editor access to the Google Apps Script project.
+
+## Routine checks
 
 Occasionally verify that:
 
-A form submission creates a Google Drive backup.
-A Markdown file appears in GitHub.
-GitHub Actions completes successfully.
-The website updates.
-Search works on the website.
+1. A form submission creates a Google Drive backup.
+2. A Markdown file appears in GitHub.
+3. GitHub Actions complete successfully.
+4. The website updates.
+5. Search works correctly on the website.
+
+## Recovery procedure
+
+If the website stops updating:
+
+1. Verify that GitHub Actions are succeeding.
+2. Check whether `GITHUB_TOKEN` has expired.
+3. Verify that the Apps Script trigger is enabled.
+4. Confirm that form submissions are reaching the Google Sheet.
+5. Look in `Yoga QA Review/` for backup copies.
+6. Upload any missing `.md` files manually to GitHub.
+7. Commit the changes to trigger a rebuild.
+
+No Q&A content should be lost, because all submissions are backed up in Google Drive.
