@@ -7,7 +7,7 @@ EXCLUDE_FILES = {"README.md", "index.md"}
 
 
 def title_from_folder(folder_name):
-    return folder_name.replace("-", " ").title()
+    return " ".join(word.capitalize() for word in folder_name.split("-"))
 
 
 def extract_title(md_file):
