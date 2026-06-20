@@ -1,5 +1,3 @@
 # Miscellaneous
 
-Questions in this section:
-
-1. [Test](test.md)
+_No questions have been added yet._
