@@ -1,4 +1,4 @@
-# Food and Nutrition
+# Food
 
 Questions in this section:
 
