@@ -1,1 +1,1 @@
-# Creation cycle -- srishti chakra
+# Creation cycle -- Srishti Chakra
