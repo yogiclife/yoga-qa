@@ -5,3 +5,4 @@ This is a shared repository of authentic answers on a **Yogic Life** based on te
 We will provide better search facilities in the future
 
 Feel free to explore and deepen your understanding.
+ 
