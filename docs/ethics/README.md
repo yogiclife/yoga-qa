@@ -1,3 +1,5 @@
 # Ethics
 
-_No questions have been added yet._
+Questions in this section:
+
+1. [Is abortion ethical?](is-abortion-ethical-20260628-122149.md)
