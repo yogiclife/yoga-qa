@@ -14,14 +14,16 @@ Questions in this section:
 
 6. [Having large amount of fruits ok for diabetes?](having-large-amount-of-fruits-ok-for-diabetes-20260628-030219.md)
 
-7. [How to make sprouts.](how-to-make-sprouts-20260628-131139.md)
+7. [How long can sprouts be refrigerated?](how-long-can-sprouts-be-refrigerated-20260628-132251.md)
 
-8. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
+8. [How to make sprouts.](how-to-make-sprouts-20260628-131139.md)
 
-9. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
+9. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
 
-10. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
+10. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
 
-11. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
+11. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
 
-12. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
+12. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
+
+13. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
