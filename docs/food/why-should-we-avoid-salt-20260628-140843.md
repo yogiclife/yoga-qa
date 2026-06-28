@@ -9,6 +9,8 @@ contributor: "ashok0srinivasan@gmail.com"
 Namak ko leker hai - Mere pass jawab nhi hote hai jab koi puchta hai ki logic kya hai  Kyuki namak to scientifically healthy hai agar sahi amount me le to , lekin aapne bataya tha ki namak ka lat lag jata hai esiliye nhi lete hai yogic jiwan me , paranti yeh paribhasha to bahut sari chijo pe lagu hoga - jaise hum bahut chij khate hai jisme swad hota hai ,to kya swad lat nhi huwa ? Jisse pata na ho namak ek lat hai usse khane me kya problem hai ? , aour yeh lat or aadat kharab kyu hai , hum jaise khana ko swikar kerte hai waise namak ko kyu nhi ker sakte hai , jaise khana khana  bhi ek aadat hai to khana chhod nhi sakte hai namak.
 
 **Full Answer:**  
+So your second question is regarding salt. Here you have put forth two main points:
+
 1) Salt is healthy when taken in the correct amount;
 2) We are recommending not to take salt only because it is addictive, but there are lots of foods that are attractive because of their taste, so wouldn't all these good-tasting foods be addictive? 
 
