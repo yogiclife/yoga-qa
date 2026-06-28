@@ -10,12 +10,14 @@ Questions in this section:
 
 4. [Having large amount of fruits ok for diabetes?](having-large-amount-of-fruits-ok-for-diabetes-20260628-030219.md)
 
-5. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
+5. [How to make sprouts.](how-to-make-sprouts-20260628-131139.md)
 
-6. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
+6. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
 
-7. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
+7. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
 
-8. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
+8. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
 
-9. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
+9. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
+
+10. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
