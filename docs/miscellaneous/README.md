@@ -4,7 +4,7 @@ Questions in this section:
 
 1. [How does a spiritual name help when parama purusha is beyond name and form?](how-does-a-spiritual-name-help-when-parama-purusha-is-beyond-name-and-form-20260628-133809.md)
 
-2. [Meaning of shubhra jyoti](meaning-of-shubhra-jyoti-20260628-133431.md)
+2. [Meaning of shubhra jyoti.](meaning-of-shubhra-jyoti-20260628-133431.md)
 
 3. [Meaning of रसेश्वर.](meaning-of-20260628-134341.md)
 
