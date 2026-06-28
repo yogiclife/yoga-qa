@@ -8,18 +8,20 @@ Questions in this section:
 
 3. [Do you have any recipes for tasty raw food?](do-you-have-any-recipes-for-tasty-raw-food-20260620-163919.md)
 
-4. [Example of improved blood sugar through a yogic diet.](example-of-improved-blood-sugar-through-a-yogic-diet-20260628-130657.md)
+4. [Does sprouting for multiple days lower the nutritional profile?](does-sprouting-for-multiple-days-lower-the-nutritional-profile-20260628-131930.md)
 
-5. [Having large amount of fruits ok for diabetes?](having-large-amount-of-fruits-ok-for-diabetes-20260628-030219.md)
+5. [Example of improved blood sugar through a yogic diet.](example-of-improved-blood-sugar-through-a-yogic-diet-20260628-130657.md)
 
-6. [How to make sprouts.](how-to-make-sprouts-20260628-131139.md)
+6. [Having large amount of fruits ok for diabetes?](having-large-amount-of-fruits-ok-for-diabetes-20260628-030219.md)
 
-7. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
+7. [How to make sprouts.](how-to-make-sprouts-20260628-131139.md)
 
-8. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
+8. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
 
-9. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
+9. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
 
-10. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
+10. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
 
-11. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
+11. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
+
+12. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
