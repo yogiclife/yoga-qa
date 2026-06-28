@@ -31,3 +31,5 @@ Questions in this section:
 14. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
 
 15. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
+
+16. [Why should we avoid salt?](why-should-we-avoid-salt-20260628-140843.md)
