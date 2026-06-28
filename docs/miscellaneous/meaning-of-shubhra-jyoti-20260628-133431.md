@@ -1,5 +1,5 @@
 ---
-title: "Meaning of shubhra jyoti"
+title: "Meaning of shubhra jyoti."
 tags: ["miscellaneous", "shubhra jyoti", "hiranmaya kosha"]
 date: "2026-06-28"
 contributor: "ashok0srinivasan@gmail.com"
