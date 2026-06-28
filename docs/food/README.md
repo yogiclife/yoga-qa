@@ -35,3 +35,5 @@ Questions in this section:
 16. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
 
 17. [Why should we avoid salt?](why-should-we-avoid-salt-20260628-140843.md)
+
+18. [Will walnuts and chia seeds provide adequate Omega-3 fatty acids?](will-walnuts-and-chia-seeds-provide-adequate-omega-3-fatty-acids-20260628-141918.md)
