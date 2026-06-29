@@ -12,10 +12,12 @@ Questions in this section:
 
 5. [Meaning of सर्वज्ञ.](meaning-of-20260628-134144.md)
 
-6. [Significance of the spiritual name.](significance-of-the-spiritual-name-20260628-125349.md)
+6. [Sacred place](sacred-place-20260629-081217.md)
 
-7. [What are the two of diseases?](what-are-the-two-of-diseases-20260628-113916.md)
+7. [Significance of the spiritual name.](significance-of-the-spiritual-name-20260628-125349.md)
 
-8. [When and why did Lord Shiva take birth?](when-and-why-did-lord-shiva-take-birth-20260628-123237.md)
+8. [What are the two of diseases?](what-are-the-two-of-diseases-20260628-113916.md)
 
-9. [Where can we go to experience mental peace?](where-can-we-go-to-experience-mental-peace-20260628-115928.md)
+9. [When and why did Lord Shiva take birth?](when-and-why-did-lord-shiva-take-birth-20260628-123237.md)
+
+10. [Where can we go to experience mental peace?](where-can-we-go-to-experience-mental-peace-20260628-115928.md)
