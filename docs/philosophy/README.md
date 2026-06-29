@@ -8,6 +8,8 @@ Questions in this section:
 
 3. [Is jivatma anadi but not ananta?](is-jivatma-anadi-but-not-ananta-20260628-103314.md)
 
-4. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
+4. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
 
-5. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+5. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
+
+6. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
