@@ -32,14 +32,16 @@ Questions in this section:
 
 15. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
 
-16. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
+16. [The power of raw food](the-power-of-raw-food-20260628-204609.md)
 
-17. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
+17. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
 
-18. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
+18. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
 
-19. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
+19. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
 
-20. [Why should we avoid salt?](why-should-we-avoid-salt-20260628-140843.md)
+20. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
 
-21. [Will walnuts and chia seeds provide adequate Omega-3 fatty acids?](will-walnuts-and-chia-seeds-provide-adequate-omega-3-fatty-acids-20260628-141918.md)
+21. [Why should we avoid salt?](why-should-we-avoid-salt-20260628-140843.md)
+
+22. [Will walnuts and chia seeds provide adequate Omega-3 fatty acids?](will-walnuts-and-chia-seeds-provide-adequate-omega-3-fatty-acids-20260628-141918.md)
