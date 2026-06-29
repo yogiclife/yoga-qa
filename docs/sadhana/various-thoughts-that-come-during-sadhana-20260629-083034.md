@@ -1,0 +1,16 @@
+---
+title: "Various thoughts that come during Sadhana"
+tags: ["sadhana", "control of mind"]
+date: "2026-06-29"
+contributor: "vidhatrii.sanskrit@gmail.com"
+---
+
+**Original Question:**  
+Clarification provided by Acharya ji
+
+**Full Answer:**  
+control of mind, you said that in sadhana various other thoughts will come and they should not be suppressed, but just they should be allowed to come and go without allowing the mind to become disturbed by them. And the sister whom you called on afterward to explain what she understood, repeated the same thing. This approach is very much mistaken, and is what we call "new age yoga", or "pseudo yoga". The fake yoga studios around the world teach this sort of thing. They guide their students, "Close your ideas and watch your thoughts, don't grab onto them, just let them come and go". It is a totally bogus idea which is taught by those who have no idea about the science of mind. But you have learned about the science of mind, so you will understand very well what I am about to explain.
+
+We know that the human mind is one-- it has a single ahamtattva and a single citta. It can only think about one thing at a time. There is no such thing as multi-tasking i.e. doing several things at once. Whatever the mind thinks of at a given moment, it thinks of because the ahamtattva wanted to think of it, so it instructed the citta to take the shape of that thought. And whatever the citta takes the shape of, at that moment that is what the ahamtattva is involved in seeing. By this we understand that: (1) When such extraneous thoughts come, there is no question of sadhana continuing and being unaffected by those thoughts, (2) Rather, the mind will be totally derailed from its sadhana process by such thoughts; (3) There is no question of the mind being "unaffected" by the thoughts it has, as whatever thought it is having at a given moment is what the mind is totally involved in at that moment-- the mind can only do one thing at a time; (4) The solution is not for the mind to be "unaffected" by the thoughts, rather the only solution is for the mind to become extremely attracted to Parama Purusa such that it has no interest in thinking about other things; (5) This extreme attraction to Parama Purusa is called 'bhakti', and this bhakti i.e. deep love for Parama Purusa is the only solution to the problem of the wandering mind.  
+
+Control of the mind, what you have called 'shama', is only achieved by making the mind one-pointed on Parama Purusa. It is the story of the baby with the mother's car keys. When the baby gets a better toy, it loses interest in the mother's car keys and drops them on the floor. This is the only solution. Parama Purusa is the "best toy", to use the analogy. Once the sadhana becomes deeply involved with Parama Purusa, he will totally lose interest in other things and hence will stop thinking about them. Having "other thoughts" is a sign of lack of love for Parama Purusa. And the solution is to increase one's love for Parama Purusa by following His guidelines in the yogic life. Shravana, manana, and nidhidhyasana. By constantly hearing about PP, thinking about PP, and surrendering one's entire existence to PP, one's mind becomes purified and one-pointed on Him. Then there is no question of having other thoughts in sadhana.
