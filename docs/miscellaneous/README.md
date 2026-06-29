@@ -4,20 +4,22 @@ Questions in this section:
 
 1. [How does a spiritual name help when parama purusha is beyond name and form?](how-does-a-spiritual-name-help-when-parama-purusha-is-beyond-name-and-form-20260628-133809.md)
 
-2. [Is there a Scared place?](is-there-a-scared-place-20260629-081134.md)
+2. [How to bring positive change in Society?](how-to-bring-positive-change-in-society-20260629-081408.md)
 
-3. [Meaning of shubhra jyoti.](meaning-of-shubhra-jyoti-20260628-133431.md)
+3. [Is there a Scared place?](is-there-a-scared-place-20260629-081134.md)
 
-4. [Meaning of रसेश्वर.](meaning-of-20260628-134341.md)
+4. [Meaning of shubhra jyoti.](meaning-of-shubhra-jyoti-20260628-133431.md)
 
-5. [Meaning of सर्वज्ञ.](meaning-of-20260628-134144.md)
+5. [Meaning of रसेश्वर.](meaning-of-20260628-134341.md)
 
-6. [Sacred place](sacred-place-20260629-081217.md)
+6. [Meaning of सर्वज्ञ.](meaning-of-20260628-134144.md)
 
-7. [Significance of the spiritual name.](significance-of-the-spiritual-name-20260628-125349.md)
+7. [Sacred place](sacred-place-20260629-081217.md)
 
-8. [What are the two of diseases?](what-are-the-two-of-diseases-20260628-113916.md)
+8. [Significance of the spiritual name.](significance-of-the-spiritual-name-20260628-125349.md)
 
-9. [When and why did Lord Shiva take birth?](when-and-why-did-lord-shiva-take-birth-20260628-123237.md)
+9. [What are the two of diseases?](what-are-the-two-of-diseases-20260628-113916.md)
 
-10. [Where can we go to experience mental peace?](where-can-we-go-to-experience-mental-peace-20260628-115928.md)
+10. [When and why did Lord Shiva take birth?](when-and-why-did-lord-shiva-take-birth-20260628-123237.md)
+
+11. [Where can we go to experience mental peace?](where-can-we-go-to-experience-mental-peace-20260628-115928.md)
