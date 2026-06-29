@@ -20,24 +20,26 @@ Questions in this section:
 
 9. [How long can sprouts be refrigerated?](how-long-can-sprouts-be-refrigerated-20260628-132251.md)
 
-10. [How to make sprouts.](how-to-make-sprouts-20260628-131139.md)
+10. [How to avoid constipation and restart the digestive system](how-to-avoid-constipation-and-restart-the-digestive-system-20260628-202200.md)
 
-11. [Is the consumption of flax seed oil acceptable?](is-the-consumption-of-flax-seed-oil-acceptable-20260628-141212.md)
+11. [How to make sprouts.](how-to-make-sprouts-20260628-131139.md)
 
-12. [Is the consumption of mustard oil acceptable?](is-the-consumption-of-mustard-oil-acceptable-20260628-140138.md)
+12. [Is the consumption of flax seed oil acceptable?](is-the-consumption-of-flax-seed-oil-acceptable-20260628-141212.md)
 
-13. [Produce in a sample raw food diet.](produce-in-a-sample-raw-food-diet-20260628-134655.md)
+13. [Is the consumption of mustard oil acceptable?](is-the-consumption-of-mustard-oil-acceptable-20260628-140138.md)
 
-14. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
+14. [Produce in a sample raw food diet.](produce-in-a-sample-raw-food-diet-20260628-134655.md)
 
-15. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
+15. [Should we avoid olives, bread, and soy sauce?](should-we-avoid-olives-bread-and-soy-sauce-20260628-114909.md)
 
-16. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
+16. [What does a good diet consists of ?](what-does-a-good-diet-consists-of-20260628-025803.md)
 
-17. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
+17. [What is the dietary recommendation for a person with heart disease?](what-is-the-dietary-recommendation-for-a-person-with-heart-disease-20260628-023806.md)
 
-18. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
+18. [What should we eat to get all the needed nutrients?](what-should-we-eat-to-get-all-the-needed-nutrients.md)
 
-19. [Why should we avoid salt?](why-should-we-avoid-salt-20260628-140843.md)
+19. [When eating raw foods, does the volume of food consumed need be increased?](when-eating-raw-foods-does-the-volume-of-food-consumed-need-be-increased-20260628-030424.md)
 
-20. [Will walnuts and chia seeds provide adequate Omega-3 fatty acids?](will-walnuts-and-chia-seeds-provide-adequate-omega-3-fatty-acids-20260628-141918.md)
+20. [Why should we avoid salt?](why-should-we-avoid-salt-20260628-140843.md)
+
+21. [Will walnuts and chia seeds provide adequate Omega-3 fatty acids?](will-walnuts-and-chia-seeds-provide-adequate-omega-3-fatty-acids-20260628-141918.md)
