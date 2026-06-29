@@ -24,4 +24,6 @@ Questions in this section:
 
 11. [When and why did Lord Shiva take birth?](when-and-why-did-lord-shiva-take-birth-20260628-123237.md)
 
-12. [Where can we go to experience mental peace?](where-can-we-go-to-experience-mental-peace-20260628-115928.md)
+12. [When will Taraka Brahma take physical form again?](when-will-taraka-brahma-take-physical-form-again-20260629-114630.md)
+
+13. [Where can we go to experience mental peace?](where-can-we-go-to-experience-mental-peace-20260628-115928.md)
