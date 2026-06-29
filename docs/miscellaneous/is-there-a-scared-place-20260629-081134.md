@@ -1,0 +1,12 @@
+---
+title: "Is there a Scared place?"
+tags: ["miscellaneous", "sacred place"]
+date: "2026-06-29"
+contributor: "vidhatrii.sanskrit@gmail.com"
+---
+
+**Original Question:**  
+Clarification provided by Acharya ji
+
+**Full Answer:**  
+In the section on Brahmacarya and vibration, to help them understand about what it is for something to have a vibration, you mentioned about the vibration which one experiences in sacred places. Here I just want to clarify that there really are no sacred places. It is a teaching of religioun that certain places are sacred, like tiirth sthalas. All the religions have such traditions-- Mecca, Jerusalem, Varanasi. And houses of worship such as temples, churches, mosques. But none of these places are holy or sacred. There are no tiirtha sthalas, no holy or pavitra sthalas. There is no location merely by going to which one will get punya or be spiritually benefited. The entire vishva is pavitra. Everything is made of purusa only. 
