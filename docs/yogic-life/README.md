@@ -14,8 +14,10 @@ Questions in this section:
 
 6. [How often should we do nirjala upavasa?](how-often-should-we-do-nirjala-upavasa-20260628-115448.md)
 
-7. [Is it ok to take the plain water soon after the salt water is done?](is-it-ok-to-take-the-plain-water-soon-after-the-salt-water-is-done-20260629-073315.md)
+7. [How to get rid of bloating?](how-to-get-rid-of-bloating-20260629-074146.md)
 
-8. [The important of continuing the practice of what we learn at a yoga shibiram.](the-important-of-continuing-the-practice-of-what-we-learn-at-a-yoga-shibiram-20260628-132817.md)
+8. [Is it ok to take the plain water soon after the salt water is done?](is-it-ok-to-take-the-plain-water-soon-after-the-salt-water-is-done-20260629-073315.md)
 
-9. [Upavasa Experiences](upavasa-experiences-20260629-073507.md)
+9. [The important of continuing the practice of what we learn at a yoga shibiram.](the-important-of-continuing-the-practice-of-what-we-learn-at-a-yoga-shibiram-20260628-132817.md)
+
+10. [Upavasa Experiences](upavasa-experiences-20260629-073507.md)
