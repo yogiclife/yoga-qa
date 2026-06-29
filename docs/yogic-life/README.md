@@ -24,4 +24,6 @@ Questions in this section:
 
 11. [Upavasa Experiences](upavasa-experiences-20260629-073507.md)
 
-12. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
+12. [Upavasa Experiences -2](upavasa-experiences-2-20260629-115359.md)
+
+13. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
