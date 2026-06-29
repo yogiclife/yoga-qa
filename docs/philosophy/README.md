@@ -8,10 +8,12 @@ Questions in this section:
 
 3. [Is jivatma anadi but not ananta?](is-jivatma-anadi-but-not-ananta-20260628-103314.md)
 
-4. [The word ज्ञान in our karapatras](the-word-in-our-karapatras-20260629-072742.md)
+4. [Is there a reason for using the nominative, Brahma, instead of the pratipadikam, Brahman?](is-there-a-reason-for-using-the-nominative-brahma-instead-of-the-pratipadikam-brahman-20260629-072905.md)
 
-5. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
+5. [The word ज्ञान in our karapatras](the-word-in-our-karapatras-20260629-072742.md)
 
-6. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
+6. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
 
-7. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+7. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
+
+8. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
