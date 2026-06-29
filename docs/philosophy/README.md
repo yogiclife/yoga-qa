@@ -22,4 +22,6 @@ Questions in this section:
 
 10. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
 
-11. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+11. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
+
+12. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
