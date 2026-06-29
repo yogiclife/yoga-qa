@@ -23,3 +23,5 @@ Questions in this section:
 10. [The important of continuing the practice of what we learn at a yoga shibiram.](the-important-of-continuing-the-practice-of-what-we-learn-at-a-yoga-shibiram-20260628-132817.md)
 
 11. [Upavasa Experiences](upavasa-experiences-20260629-073507.md)
+
+12. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
