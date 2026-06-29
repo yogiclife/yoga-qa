@@ -12,12 +12,14 @@ Questions in this section:
 
 5. [Is Prakruti part of Purusha?](is-prakruti-part-of-purusha-20260629-074539.md)
 
-6. [Is there a reason for using the nominative, Brahma, instead of the pratipadikam, Brahman?](is-there-a-reason-for-using-the-nominative-brahma-instead-of-the-pratipadikam-brahman-20260629-072905.md)
+6. [Is Purusha and Prakruti the same thing?](is-purusha-and-prakruti-the-same-thing-20260629-075117.md)
 
-7. [The word ज्ञान in our karapatras](the-word-in-our-karapatras-20260629-072742.md)
+7. [Is there a reason for using the nominative, Brahma, instead of the pratipadikam, Brahman?](is-there-a-reason-for-using-the-nominative-brahma-instead-of-the-pratipadikam-brahman-20260629-072905.md)
 
-8. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
+8. [The word ज्ञान in our karapatras](the-word-in-our-karapatras-20260629-072742.md)
 
-9. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
+9. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
 
-10. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+10. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
+
+11. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
