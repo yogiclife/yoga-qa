@@ -25,3 +25,5 @@ Questions in this section:
 11. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
 
 12. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+
+13. [Why is the distinction between a quantitative difference and a qualitative differences important?](why-is-the-distinction-between-a-quantitative-difference-and-a-qualitative-differences-important-20260629-221019.md)
