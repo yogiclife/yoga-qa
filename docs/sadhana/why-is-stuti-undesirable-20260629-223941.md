@@ -15,4 +15,4 @@ Raganuga Bhakti and Ragatmika Bhakti, in which the sadhaka loves Parama Purusa e
 
 [Follow up question: I think I now understand the perspective from which you are saying this, mahodaya. You are taking stuti from the perspective of rajasiki bhakti. Most people I know don’t do that, and so I was wondering about it.]
 
-[Answer to follow up question] Yes Mahodaya-- 99% of the world population who engage in any form of prayer or stuti, do so with the intent to get something.
+[Answer to the follow up question] Yes Mahodaya-- 99% of the world population who engage in any form of prayer or stuti, do so with the intent to get something.
