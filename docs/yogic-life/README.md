@@ -18,12 +18,14 @@ Questions in this section:
 
 8. [Is a non-Ekadashi day suitable for a first upavasa?](is-a-non-ekadashi-day-suitable-for-a-first-upavasa-20260629-074340.md)
 
-9. [Is it ok to take the plain water soon after the salt water is done?](is-it-ok-to-take-the-plain-water-soon-after-the-salt-water-is-done-20260629-073315.md)
+9. [Is it normal to use restroom few more times during the day after breaking fast?](is-it-normal-to-use-restroom-few-more-times-during-the-day-after-breaking-fast-20260629-222435.md)
 
-10. [The important of continuing the practice of what we learn at a yoga shibiram.](the-important-of-continuing-the-practice-of-what-we-learn-at-a-yoga-shibiram-20260628-132817.md)
+10. [Is it ok to take the plain water soon after the salt water is done?](is-it-ok-to-take-the-plain-water-soon-after-the-salt-water-is-done-20260629-073315.md)
 
-11. [Upavasa Experiences](upavasa-experiences-20260629-073507.md)
+11. [The important of continuing the practice of what we learn at a yoga shibiram.](the-important-of-continuing-the-practice-of-what-we-learn-at-a-yoga-shibiram-20260628-132817.md)
 
-12. [Upavasa Experiences -2](upavasa-experiences-2-20260629-115359.md)
+12. [Upavasa Experiences](upavasa-experiences-20260629-073507.md)
 
-13. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
+13. [Upavasa Experiences -2](upavasa-experiences-2-20260629-115359.md)
+
+14. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
