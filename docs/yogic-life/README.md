@@ -28,12 +28,14 @@ Questions in this section:
 
 13. [Is it ok to take the plain water soon after the salt water is done?](is-it-ok-to-take-the-plain-water-soon-after-the-salt-water-is-done-20260629-073315.md)
 
-14. [The important of continuing the practice of what we learn at a yoga shibiram.](the-important-of-continuing-the-practice-of-what-we-learn-at-a-yoga-shibiram-20260628-132817.md)
+14. [Is Salt ingestion harmful?](is-salt-ingestion-harmful-20260629-225258.md)
 
-15. [Upavasa Experiences](upavasa-experiences-20260629-073507.md)
+15. [The important of continuing the practice of what we learn at a yoga shibiram.](the-important-of-continuing-the-practice-of-what-we-learn-at-a-yoga-shibiram-20260628-132817.md)
 
-16. [Upavasa Experiences -2](upavasa-experiences-2-20260629-115359.md)
+16. [Upavasa Experiences](upavasa-experiences-20260629-073507.md)
 
-17. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
+17. [Upavasa Experiences -2](upavasa-experiences-2-20260629-115359.md)
 
-18. [Why nirjalopavasa?](why-nirjalopavasa-20260629-224139.md)
+18. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
+
+19. [Why nirjalopavasa?](why-nirjalopavasa-20260629-224139.md)
