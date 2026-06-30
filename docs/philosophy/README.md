@@ -26,8 +26,10 @@ Questions in this section:
 
 12. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
 
-13. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
+13. [What is meaning of tantra in philosophy?](what-is-meaning-of-tantra-in-philosophy-20260629-223217.md)
 
-14. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+14. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
 
-15. [Why is the distinction between a quantitative difference and a qualitative differences important?](why-is-the-distinction-between-a-quantitative-difference-and-a-qualitative-differences-important-20260629-221019.md)
+15. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+
+16. [Why is the distinction between a quantitative difference and a qualitative differences important?](why-is-the-distinction-between-a-quantitative-difference-and-a-qualitative-differences-important-20260629-221019.md)
