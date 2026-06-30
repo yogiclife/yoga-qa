@@ -14,6 +14,8 @@ Questions in this section:
 
 6. [Mukti vs. Moksha](mukti-vs-moksha-20260629-222657.md)
 
-7. [Various thoughts that come during Sadhana](various-thoughts-that-come-during-sadhana-20260629-083034.md)
+7. [Mukti vs. Moksha 2](mukti-vs-moksha-2-20260629-222850.md)
 
-8. [What is AjapAjap?](what-is-ajapajap-20260629-104312.md)
+8. [Various thoughts that come during Sadhana](various-thoughts-that-come-during-sadhana-20260629-083034.md)
+
+9. [What is AjapAjap?](what-is-ajapajap-20260629-104312.md)
