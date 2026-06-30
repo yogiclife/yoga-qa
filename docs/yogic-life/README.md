@@ -31,3 +31,5 @@ Questions in this section:
 14. [Upavasa Experiences -2](upavasa-experiences-2-20260629-115359.md)
 
 15. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
+
+16. [Why nirjalopavasa?](why-nirjalopavasa-20260629-224139.md)
