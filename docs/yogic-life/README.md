@@ -39,3 +39,5 @@ Questions in this section:
 18. [What is needed for doing Upavasa?](what-is-needed-for-doing-upavasa-20260629-081011.md)
 
 19. [Why nirjalopavasa?](why-nirjalopavasa-20260629-224139.md)
+
+20. [Yogic food plan is a plan of expansion and not of restriction](yogic-food-plan-is-a-plan-of-expansion-and-not-of-restriction-20260629-225757.md)
