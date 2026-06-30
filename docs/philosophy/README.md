@@ -14,16 +14,18 @@ Questions in this section:
 
 6. [Is Purusha and Prakruti the same thing?](is-purusha-and-prakruti-the-same-thing-20260629-075117.md)
 
-7. [Is there a reason for using the nominative, Brahma, instead of the pratipadikam, Brahman?](is-there-a-reason-for-using-the-nominative-brahma-instead-of-the-pratipadikam-brahman-20260629-072905.md)
+7. [is purusha dominant or prakriti?](is-purusha-dominant-or-prakriti-20260629-222620.md)
 
-8. [The word ज्ञान in our karapatras](the-word-in-our-karapatras-20260629-072742.md)
+8. [Is there a reason for using the nominative, Brahma, instead of the pratipadikam, Brahman?](is-there-a-reason-for-using-the-nominative-brahma-instead-of-the-pratipadikam-brahman-20260629-072905.md)
 
-9. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
+9. [The word ज्ञान in our karapatras](the-word-in-our-karapatras-20260629-072742.md)
 
-10. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
+10. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
 
-11. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
+11. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
 
-12. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+12. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
 
-13. [Why is the distinction between a quantitative difference and a qualitative differences important?](why-is-the-distinction-between-a-quantitative-difference-and-a-qualitative-differences-important-20260629-221019.md)
+13. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+
+14. [Why is the distinction between a quantitative difference and a qualitative differences important?](why-is-the-distinction-between-a-quantitative-difference-and-a-qualitative-differences-important-20260629-221019.md)
