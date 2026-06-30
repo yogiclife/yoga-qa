@@ -18,14 +18,16 @@ Questions in this section:
 
 8. [Is there a reason for using the nominative, Brahma, instead of the pratipadikam, Brahman?](is-there-a-reason-for-using-the-nominative-brahma-instead-of-the-pratipadikam-brahman-20260629-072905.md)
 
-9. [The word ज्ञान in our karapatras](the-word-in-our-karapatras-20260629-072742.md)
+9. [Purusha](purusha-20260629-223033.md)
 
-10. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
+10. [The word ज्ञान in our karapatras](the-word-in-our-karapatras-20260629-072742.md)
 
-11. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
+11. [Two ब्रह्मन् shabdas](two-shabdas-20260629-072546.md)
 
-12. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
+12. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
 
-13. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+13. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
 
-14. [Why is the distinction between a quantitative difference and a qualitative differences important?](why-is-the-distinction-between-a-quantitative-difference-and-a-qualitative-differences-important-20260629-221019.md)
+14. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
+
+15. [Why is the distinction between a quantitative difference and a qualitative differences important?](why-is-the-distinction-between-a-quantitative-difference-and-a-qualitative-differences-important-20260629-221019.md)
