@@ -28,9 +28,9 @@ Questions in this section:
 
 13. [What are the reasons for studying Yoga philosophy?](what-are-the-reasons-for-studying-yoga-philosophy-20260628-103602.md)
 
-14. [What is meaning of tantra in philosophy?](what-is-meaning-of-tantra-in-philosophy-20260629-223217.md)
+14. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
 
-15. [What is Purusha in substrate?](what-is-purusha-in-substrate-20260629-080853.md)
+15. [What is the meaning of tantra in philosophy?](what-is-meaning-of-tantra-in-philosophy-20260629-223217.md)
 
 16. [What is the purpose of What is Dharma karapatram?](what-is-the-purpose-of-what-is-dharma-karapatram-20260628-114256.md)
 
