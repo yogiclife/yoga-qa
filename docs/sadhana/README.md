@@ -19,3 +19,5 @@ Questions in this section:
 8. [Various thoughts that come during Sadhana](various-thoughts-that-come-during-sadhana-20260629-083034.md)
 
 9. [What is AjapAjap?](what-is-ajapajap-20260629-104312.md)
+
+10. [Why is stuti undesirable?](why-is-stuti-undesirable-20260629-223941.md)
