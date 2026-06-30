@@ -1,5 +1,5 @@
 ---
-title: "What is meaning of tantra in philosophy?"
+title: "What is the meaning of tantra in philosophy?"
 tags: ["philosophy", "tantra", "tantra yoga"]
 date: "2026-06-30"
 contributor: "ashok0srinivasan@gmail.com"
