@@ -6,7 +6,7 @@ contributor: "ashok0srinivasan@gmail.com"
 ---
 
 **Original Question:**  
-2nd doubt was regarding the word “brahma” ..what is the correct pronunciation Brahman or Brahma .
+2nd doubt was regarding the word “brahma” ..what is the correct pronunciation Brahman or Brahma.
 
 **Full Answer:**  
 So the word ब्रह्मन्‌ has two forms, a pumlinga form and a napumsakalinga form. The pumlinga form in ekavacana prathamAvibhakti is ब्रह्मा and means that aspect of PP who creates the universe. The napumsakalinga form in ekavacana prathamAvibhakti is ब्रह्म and refers to Parama Purusa in His totality, He who is the combined union of Purusa and Prakrti. 
