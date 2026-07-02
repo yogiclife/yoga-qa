@@ -1,5 +1,5 @@
 ---
-title: "Ia AI a threat to humans?"
+title: "Is AI a threat to humans?"
 tags: ["philosophy", "ai", "artificial intelligence"]
 date: "2026-07-02"
 contributor: "ashok0srinivasan@gmail.com"
