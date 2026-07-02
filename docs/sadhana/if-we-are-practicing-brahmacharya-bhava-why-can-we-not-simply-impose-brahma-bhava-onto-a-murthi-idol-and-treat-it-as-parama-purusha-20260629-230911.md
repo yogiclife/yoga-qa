@@ -1,5 +1,5 @@
 ---
-title: "\"If we are practicing Brahmacharya Bhava, why can we not simply impose Brahma Bhava onto a Murthi (idol) and treat it as Parama Purusha?"
+title: "If we are practicing Brahmacharya Bhava, why can we not simply impose Brahma Bhava onto a Murthi (idol) and treat it as Parama Purusha?"
 tags: ["sadhana", "brahmacharyam", "idol worship"]
 date: "2026-06-30"
 contributor: "vidhatrii.sanskrit@gmail.com"
