@@ -1,14 +1,18 @@
 name: Deploy MkDocs
 
-'on':
+on:
   push:
     branches:
       - main
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   deploy:
@@ -28,14 +32,6 @@ jobs:
 
       - run: python scripts/generate_indices.py
 
-      - name: Commit generated indices
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add docs/*/README.md
-          git diff --cached --quiet || git commit -m "Update topic indices [skip ci]"
-          git push || true
-          
       - run: mkdocs build
 
       - uses: actions/configure-pages@v5
