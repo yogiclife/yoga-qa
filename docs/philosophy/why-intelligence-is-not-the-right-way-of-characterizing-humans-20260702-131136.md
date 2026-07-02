@@ -1,0 +1,12 @@
+---
+title: "Why intelligence is not the right way of characterizing humans."
+tags: ["philosophy", "intelligence", "difference between humans and animals", "category"]
+date: "2026-07-02"
+contributor: "ashok0srinivasan@gmail.com"
+---
+
+**Original Question:**  
+Clarification by acharya ji.
+
+**Full Answer:**  
+I will add one point here which I think could be said to be the culmination of this entire discussion. It is not so much something new as it is a way of framing the conversation: For literally hundreds of years the philosophers and more recently the scientists have been categorizing humans as the most intelligent animals. When they have selected intelligence as the quality on which to engage in this evaluation, then it is quite natural and even appropriate that they would come to the conclusion to which they have come. For, indeed, intelligence is present in both animals and humans, varying only in matter of degree, and so, just as the difference between mice and monkeys being one of degree of intelligence such that both sit quite comfortably together in the animal category, so too with the various members of the animal kingdom and humans, the difference being merely a matter of amount of intelligence, all sit quite comfortably together in the animal category. So what is their mistake? They have selected the wrong quality as the one on which to make their determination. Having selected intelligence, they quite naturally concluded that humans are the strongest in an extensive spectrum of intelligence within the animal kingdom-- and by so doing, they have made a huge, catastrophic mistake which has been misguiding the entire humanity for hundreds of years in the wrong direction and culminated in havoc and near total destruction of the entire humanity as well as indeed the living family of plants, animals, and humans on this earth. They have misguided human beings to behave as animals -- which they are not. And that is because they have chosen intelligence, rather than infinite desire, as their determining characteristic. In teaching the yogic life, it is our job and goal to guide the human family to identify and select infinite desire as the quality to use in determining whether animals and humans belong in the same category. This shift can verily redirect the human society in the proper direction so that it can discover its true divine potential and begin to flourish in the way in which it was designed.
