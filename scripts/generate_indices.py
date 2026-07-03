@@ -16,7 +16,12 @@ def extract_title(md_file):
     # Prefer YAML front matter title
     match = re.search(r'^title:\s*["\']?(.*?)["\']?\s*$', text, re.MULTILINE)
     if match:
-        return match.group(1).strip()
+        title = match.group(1).strip()
+
+        # Decode escaped characters from YAML
+        title = bytes(title, "utf-8").decode("unicode_escape")
+
+        return title
 
     # Fallback to first Markdown heading
     match = re.search(r"^#\s+(.+)$", text, re.MULTILINE)
