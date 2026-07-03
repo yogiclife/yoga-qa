@@ -6,7 +6,7 @@ contributor: "vidhatrii.sanskrit@gmail.com"
 ---
 
 **Original Question:**  
-Cells of liver – are they single celled?
+Cells of liver – are they single celled? 
 
 **Full Answer:**  
 The cells of the liver are single cells. They are specialized cells made for functioning in the liver, called hepatocytes. They are specialized, but they are single cells each with their own mind and jiivatma, as you explained to him.
