@@ -1,5 +1,5 @@
 ---
-title: "Is it correct to say that when we practice Shadhna our reflected consciousness improved and which helps to focus more on our education ?"
+title: "Is it correct to say that when we practice Sadhana our reflected consciousness improved and which helps to focus more on our education ?"
 tags: ["sadhana", "concentration"]
 date: "2026-07-03"
 contributor: "vidhatrii.sanskrit@gmail.com"
