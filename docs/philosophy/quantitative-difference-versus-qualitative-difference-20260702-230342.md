@@ -1,5 +1,5 @@
 ---
-title: "\"Quantitative difference\" versus \"Qualitative difference\""
+title: "Quantitative difference versus Qualitative difference"
 tags: ["philosophy", "qualitative difference"]
 date: "2026-07-03"
 contributor: "vidhatrii.sanskrit@gmail.com"
