@@ -19,7 +19,7 @@ def extract_title(md_file):
         title = match.group(1).strip()
 
         # Decode escaped characters from YAML
-        title = bytes(title, "utf-8").decode("unicode_escape")
+        title = title.replace('\\"', '"')
 
         return title
 
