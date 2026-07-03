@@ -1,5 +1,5 @@
 ---
-title: "Is Hone Sattvika?"
+title: "Is honey sattvika?"
 tags: ["food", "honey"]
 date: "2026-07-03"
 contributor: "vidhatrii.sanskrit@gmail.com"
