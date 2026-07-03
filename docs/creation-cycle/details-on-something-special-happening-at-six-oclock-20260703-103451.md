@@ -6,7 +6,7 @@ contributor: "vidhatrii.sanskrit@gmail.com"
 ---
 
 **Original Question:**  
-Details on something special happening at six o’clock. 
+Details on something special happening at six o’clock.
 
 **Full Answer:**  
 I would recommend that a similar moment for conveying that something very special is happening is six o'clock. Everything you expressed clearly there, just you can give something more to help them get the idea that this is something totally unique. Indeed no one else can explain where life comes from, and so you are giving them something amazing here. Where life comes from, no one has any idea. So this is an opportunity to express something more here to give them a sense of wonder here. You can talk about how from the outside a stone looks like something inert; but this stone is not at all inert, it is not something dead. It is made of purusa, of consciousness-- and as such is very much alive! Purusa is not at all something 'dead', rather it is alive and this is what the stone is made of. So although the stone is not expressing life outwardly, but it has all the shakti of life within it. Tab na usse jiiva nikal sakta hai! It is an extraordinary transition phase of the srsti cakra, and reveals just how vibrant and vital the stone is, that in congenial conditions a jiiva can emerge from it. So this point is really deserving of some heart-felt explanation so that it creates a feeling of wonder in the hearts and minds of those present to listen.
