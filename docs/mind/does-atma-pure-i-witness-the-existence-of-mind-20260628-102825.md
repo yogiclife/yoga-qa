@@ -1,5 +1,5 @@
 ---
-title: "Does Atma, (\"Pure I\") witness the existence of mind ?"
+title: "Does Atma, (\"Pure I\") witness the existence of mind?"
 tags: ["mind", "witnessing entity"]
 date: "2026-06-28"
 contributor: "vidhatrii.sanskrit@gmail.com"
