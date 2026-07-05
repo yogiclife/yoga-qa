@@ -1,5 +1,5 @@
 ---
-title: "Is there a Scared place?"
+title: "Is there a sacred place?"
 tags: ["miscellaneous", "sacred place"]
 date: "2026-06-29"
 contributor: "vidhatrii.sanskrit@gmail.com"
