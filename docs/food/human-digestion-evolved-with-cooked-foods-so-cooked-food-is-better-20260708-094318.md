@@ -1,0 +1,14 @@
+---
+title: "Human digestion evolved with cooked foods so cooked food is better?"
+tags: ["food", "cooking"]
+date: "2026-07-08"
+contributor: "onkarkris@gmail.com"
+---
+
+**Original Question:**  
+I tried the first day of the raw food diet and entered everything into Cronometer to see the nutrient profile. Calcium and zinc came out low, and protein was slightly below 0.8 g/kg body weight. Fat was over 20% of calories because nuts and seeds seem to be the main protein source. If I reduce nuts to lower fat, protein drops further. (I also ignored the calcium listed for spinach because much of it is bound to oxalate and poorly absorbed.)
+
+I did a little reading and it seems that human digestion evolved with cooked foods, and that light cooking can increase bioavailability for some nutrients (while a few like vitamin C decrease but are easy to get from fruits). I am assuming five days is short enough that small nutrient gaps won’t matter, so I’ll continue the experiment. I’m curious how others are balancing protein, calcium, and zinc on a raw plan.
+
+**Full Answer:**  
+Regarding your questions: I've been doing this WFPB raw diet since July 14, 2025 (with the exception of our 1 week at the yoga shibiram). Don't you think if there were a nutrition deficit, it would have become evident by now? And I do 100 pushups a day and run for one hour a day in hilly off-road terrain, in addition to doing my asanas. If there were a protein deficit, do you think I would be able to build up the muscle to do these things? And there are lots of other extremely healthy people too who eat this way and are very athletic. Regarding protein, you yourself have taught in your class that the only way to have a protein deficit is if you don't get sufficient calories and are starving -- and it is true. Yet here you are writing that you aren't getting enough protein eating raw food. And regarding micronutrients-- vitamins and minerals -- vegetables are the must nutrient dense food there is. So the most effective approach, what I recommend you do, is to see how you feel rather than depending on the cronometer. There are no deficits. Please put that cronometer in the closet and don't use it anymore. (Or better yet, throw it in the garbage 😊🙏.) It is misguiding you into thinking there can be a protein deficit where there is no calorie deficit. That is totally wrong. And it is further misguiding you into thinking that the most micronutrient diet there is, is creating a micronutrient deficit. My recommendation is: do this diet for five days and see how you feel. Don't do any more intellectual analyses. Rather, see how you feel-- that will be far more meaningful. See how you feel-- both in general as well as after each meal: how alert your mind is, and how energetic your body is. Also, how good your digestion is. How you feel will be the best test of this approach to food.
