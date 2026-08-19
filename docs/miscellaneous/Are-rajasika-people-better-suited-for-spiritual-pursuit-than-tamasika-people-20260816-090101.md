@@ -1,5 +1,5 @@
 ---
-title: "Do you think tamasika people, who lack ambition and effort, are less suited for spiritual pursuit than rajasika people, who are driven and ambitious? If the rajasika person turns toward spirituality, might they pursue it with greater intensity and determination?"
+title: "Are rajasika people better suited for spiritual pursuit than tamasika people?"
 tags: ["miscellaneous", "rajasik and tamasik mind"]
 date: "2026-08-16"
 contributor: "vamsisudha@gmail.com"
