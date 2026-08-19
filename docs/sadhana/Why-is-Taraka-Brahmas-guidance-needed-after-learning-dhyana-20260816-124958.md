@@ -1,5 +1,5 @@
 ---
-title: "My understanding is that at the shibiram, we learn dhyana, and by practicing dhyana along with jagat hita, we attain moksha. If no additional knowledge is required for moksha after learning dhyana, why do we still need Taraka Brahma’s guidance?"
+title: "Why is Taraka Brahma’s guidance needed after learning dhyana?"
 tags: ["sadhana", "taraka brahma"]
 date: "2026-08-16"
 contributor: "vamsisudha@gmail.com"
